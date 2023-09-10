@@ -1,6 +1,6 @@
 # Avaliacao-de-logica-EPDM
 
-## Correção das questões na plataforma Beecrowd
+## Teste das questões na plataforma Beecrowd
 
 1. Distância (1016 - https://www.beecrowd.com.br/judge/pt/problems/view/1016).
 
